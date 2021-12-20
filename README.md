@@ -1,3 +1,3 @@
 # html
-"Bilgisayar Programlama" bölümünde aldığım "Web Tabanlı Kodlama" ders kitabından aldığım kodlardır. <br>
+"Bilgisayar Programlama" bölümünde aldığım <u>"Web Tabanlı Kodlama"</u> ders kitabından aldığım kodlardır. <br>
 Temel düzey html kodları
